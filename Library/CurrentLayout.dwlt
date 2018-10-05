@@ -131,12 +131,12 @@ MonoBehaviour:
     height: 1307
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 12}
+  m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 12}
   - {fileID: 11}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -160,7 +160,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 10
+  controlID: 44
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -280,10 +280,10 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
+    m_HSlider: 1
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -341,14 +341,14 @@ MonoBehaviour:
     height: 1286
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 3313.500656821464
+  lastFramingTime: 922.3379833562319
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 227.06046, y: 162.2574, z: 71.76379}
+    m_Target: {x: 1.300003, y: 0, z: 436.8}
     speed: 2
-    m_Value: {x: 227.06046, y: 162.2574, z: 71.76379}
+    m_Value: {x: 1.300003, y: 0, z: 436.8}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -376,13 +376,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.31549504, y: 0.5168977, z: -0.21266298, w: -0.766855}
+    m_Target: {x: 0.20786741, y: 0.37715074, z: -0.08727211, w: 0.89829904}
     speed: 2
-    m_Value: {x: -0.31549308, y: 0.51689446, z: -0.21266167, w: -0.76685023}
+    m_Value: {x: 0.20786647, y: 0.37714905, z: -0.08727171, w: 0.898295}
   m_Size:
-    m_Target: 913.4042
+    m_Target: 225.45155
     speed: 2
-    m_Value: 913.4042
+    m_Value: 225.45155
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -423,18 +423,18 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 5a47eaffc047eaff1049eaff80b0f3ffe8b0f3ff40b2f3ffc6c2f3ff2ec3f3ff7ec4f3fffce9f3ff64eaf3ffb4ebf3ff46eef3ffaeeef3fffeeff3ff70a7f4ffd8a7f4ff28a9f4ffceb6f4ff34b7f4ff84b8f4ff7a88f5ffe288f5ff328af5ff8af2f9fff2f2f9ff42f4f9ff92f9f9fff8f9f9ff48fbf9ffe0f7ffff46f8ffff96f9ffffe6fbffff00000000
+    m_ExpandedIDs: cadbefff30dcefff80ddefffa06af7ff086bf7ff586cf7ff7e92f7ffe692f7ff3694f7ff989ffdff00a0fdff50a1fdffd2e7fdff38e8fdff88e9fdffe6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Main Camera
-      m_OriginalName: Main Camera
+      m_Name: PS Corona (2)
+      m_OriginalName: PS Corona (2)
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 12822
+      m_UserData: 12936
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -552,7 +552,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
