@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/Dustin/Documents/unity projects/SpaceSim/test/SpaceSim.exe
+C:/Users/Dustin/Documents/UnityProjects/SpaceSim/SpaceSim/test/SpaceSim.exe
 SceneListBegin?
 Assets/Scenes/Sol.unity
 SceneListEnd?
